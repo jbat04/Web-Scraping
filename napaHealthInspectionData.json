@@ -1,0 +1,118 @@
+{
+    " 1313 MAIN STREET": {
+        "Facility Name": " 1313 MAIN STREET",
+        "Street Address": " 1313 MAIN ST ",
+        "City": "NAPA",
+        "State": "CA",
+        "Zip Code": "94559",
+        "Inspection Date": " 11/02/2016",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {
+            "35": "Equipment/Utensils - approved; installed; clean; good repair; capacity",
+            "44": "Premises; personal/cleaning items; vermin-proofing",
+            "48": "Plan Review"
+        }
+    },
+    " 641 MAIN STREET": {
+        "Facility Name": " 641 MAIN STREET",
+        "Street Address": " 641 MAIN ST ",
+        "City": "SAINT HELENA",
+        "State": "CA",
+        "Zip Code": "94574",
+        "Inspection Date": " 02/01/2018",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {}
+    },
+    " A & A KITCHENS LLC": {
+        "Facility Name": " A & A KITCHENS LLC",
+        "Street Address": " 391 LA FATA ST ",
+        "City": "ST HELENA",
+        "State": "CA",
+        "Zip Code": "94574",
+        "Inspection Date": " 04/03/2012",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {
+            "14": "Food contact surfaces: clean and sanitized",
+            "35": "Equipment/Utensils - approved; installed; clean; good repair; capacity"
+        }
+    },
+    " A & B MARKET": {
+        "Facility Name": " A & B MARKET",
+        "Street Address": " 1855 OLD SONOMA RD ",
+        "City": "Napa",
+        "State": "CA",
+        "Zip Code": "94558",
+        "Inspection Date": " 01/22/2018",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {}
+    },
+    " A DOZEN VINTNERS": {
+        "Facility Name": " A DOZEN VINTNERS",
+        "Street Address": " 3000 St. Helena Hwy N A",
+        "City": "SAINT HELENA",
+        "State": "CA",
+        "Zip Code": "94574",
+        "Inspection Date": " 10/03/2012",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {
+            "41": "Plumbing; proper backflow devices"
+        }
+    },
+    " A&W/KFC": {
+        "Facility Name": " A&W/KFC",
+        "Street Address": " 501 MAIN ST ",
+        "City": "SAINT HELENA",
+        "State": "CA",
+        "Zip Code": "94574",
+        "Inspection Date": " 02/04/2013",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {
+            "14": "Food contact surfaces: clean and sanitized",
+            "41": "Plumbing; proper backflow devices",
+            "42": "Garbage and refuse properly disposed; facilities maintained",
+            "44": "Premises; personal/cleaning items; vermin-proofing",
+            "45": "Floors, walls and ceilings: built, maintained, and clean"
+        }
+    },
+    " A-1 FOOD & LIQUOR INC": {
+        "Facility Name": " A-1 FOOD & LIQUOR INC",
+        "Street Address": " 75 COOMBS ST ",
+        "City": "NAPA",
+        "State": "CA",
+        "Zip Code": "94559",
+        "Inspection Date": " 03/20/2017",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {}
+    },
+    " A-1 SANDWICH CO (DIET TO GO)": {
+        "Facility Name": " A-1 SANDWICH CO (DIET TO GO)",
+        "Street Address": " 429 Cabot RD ",
+        "City": "S Francisco",
+        "State": "CA",
+        "Zip Code": "94080",
+        "Inspection Date": " 01/25/2013",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {
+            "39": "Thermometers provided and accurate"
+        }
+    },
+    " ABC FOODS": {
+        "Facility Name": " ABC FOODS",
+        "Street Address": " 1825 Old Sonoma RD ",
+        "City": "Napa",
+        "State": "CA",
+        "Zip Code": "94558",
+        "Inspection Date": " 03/10/2016",
+        "Inspection Type": " Routine",
+        "Inspection Grade": "A",
+        "Out of Compliance Violations": {}
+    }
+}
